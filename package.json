@@ -1,0 +1,17 @@
+{
+  "name": "random_trials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "change-case": "^3.0.1",
+    "express": "^4.15.4",
+    "nodemon": "^1.11.0",
+    "postgraphql": "^3.4.0"
+  }
+}
